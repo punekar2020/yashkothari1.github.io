@@ -8,6 +8,7 @@ body {
 
 p {
 	font-size: 0;
+	/*to remove spaces between spans in the text*/
 }
 
 #typebox{
